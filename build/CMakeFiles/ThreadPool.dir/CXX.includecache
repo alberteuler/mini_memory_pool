@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/Toys/mini_memory_pool/main.cpp
+iostream
+-
+threadpool.hpp
+/mnt/f/Toys/mini_memory_pool/threadpool.hpp
+
+/mnt/f/Toys/mini_memory_pool/threadpool.hpp
+cstdint
+-
+future
+-
+vector
+-
+queue
+-
+thread
+-
+mutex
+-
+functional
+-
+condition_variable
+-
+

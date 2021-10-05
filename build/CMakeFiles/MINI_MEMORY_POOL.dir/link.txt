@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/MINI_MEMORY_POOL.dir/main.cpp.o  -o MINI_MEMORY_POOL -lpthread 

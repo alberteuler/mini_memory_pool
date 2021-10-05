@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.f90": "FortranFreeForm",
+        "*.md": "markdown",
+        "condition_variable": "cpp"
+    }
+}
